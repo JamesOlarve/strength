@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+title: "Stress–Strain Analyzer"
+version: "1.0"
+message: "If you use this software in academic work, please cite it as shown below."
+authors:
+  - family-names: "Olarve"
+    given-names: "James Salveo"
+    affiliation: "De La Salle University Manila"
+url: "https://www.inanolab.com/strength.html"
+repository-code: "https://github.com/JamesOlarve/strength"
+license: "MIT"
+keywords:
+  - stress-strain
+  - material testing
+  - elastic modulus
+  - ultimate strength
+  - plotly
+  - static web app
